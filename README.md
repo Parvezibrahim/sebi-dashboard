@@ -45,3 +45,15 @@ Using keywords in `TITLE`, each order is tagged as:
 
 ## 📁 Project Structure
 
+sebi-dashboard/
+├── streamlit_app.py # Main dashboard code
+├── requirements.txt # Python dependencies
+└── .streamlit/
+└── secrets.toml # Snowflake credentials (ignored via .gitignore)
+
+📌 Author
+Mohammad Parvez
+Snowflake | dbt | Streamlit | Data Engineering
+📧 parvez2114@gmail.com
+
+
